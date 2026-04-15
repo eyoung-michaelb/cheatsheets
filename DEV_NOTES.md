@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Added .editorconfig for consistent formatting
 - Added CONTRIBUTING.md stub
+
+## 2026-04-15
+- Fixed minor edge case in input handling

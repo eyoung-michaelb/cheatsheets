@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Verified compatibility with latest runtime version
 - Added healthcheck endpoint stub
+
+## 2026-05-06
+- Added type hints to helper functions

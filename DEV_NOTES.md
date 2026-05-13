@@ -26,3 +26,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Pinned dependency versions for reproducibility
+
+## 2026-05-13
+- Fixed off-by-one error in loop
+- Refactored module structure for clarity
+- Pinned dependency versions for reproducibility

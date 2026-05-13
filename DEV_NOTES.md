@@ -31,3 +31,7 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Refactored module structure for clarity
 - Pinned dependency versions for reproducibility
+
+## 2026-05-13
+- Reviewed open issues, added labels
+- Added basic retry logic for network requests
